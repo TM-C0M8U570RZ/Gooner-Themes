@@ -1,4 +1,7 @@
-# 🎮 Switch Theme
+# DO NOT USE THIS YET!  I HAVE NOT YET FINISHED THE INITIAL VERSION OF GOONER THEMES!  
+
+
+# 🎮 Gooner Themes
 
 **A platform for uploading, sharing, and downloading custom themes for Nintendo 3DS, 2DS, N3DS, and N2DS systems with CFW or Homebrew access.**  
 
