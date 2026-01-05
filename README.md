@@ -98,7 +98,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📢 Contact & Community
 
-- 🌐 **Website**: [SwitchTheme](https://www.switchthemes.vercel.app)  
-- 👾 **Discord**: [Join Here](https://discord.gg/BupA4phdVC)  
-- 📺 **Twitch**: [CallMeSpeed](https://www.twitch.tv/CallMeSpeed)  
-- 📰 **Reddit**: [SwitchTheme](https://www.reddit.com/r/SwitchTheme)
