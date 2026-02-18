@@ -73,25 +73,36 @@ const TermsOfServicePage = () => {
                 owner or an authorized agent, please contact us for takedown requests at:
               </p>
               <p className="text-gray-300 font-medium">
-                Email: abuse@switchtheme.app (or your actual email)
+                Email: pkmnfan1024@gmail.com (Because I (Ben from TMC) am an Arceist, I will only consider reports from emails associated with a Gooner Themes account that isn't banned)
               </p>
             </section>
 
             <section className="mb-8">
               <h2 className="text-2xl font-light text-white mb-4">3. NSFW Content</h2>
               <ul className="list-disc pl-6 text-gray-300 mb-4 space-y-2">
-                <li>NSFW content must be clearly marked using the provided NSFW checkbox.</li>
+                <li>NSFW content must be clearly marked using the nsfw tag.</li>
                 <li>Content that depicts or implies sexual arousal is considered NSFW.</li>
-                <li>Nudity (real or animated) is allowed, but explicit sex acts (pornographic content) are strictly prohibited.</li>
-                <li>Absolutely no content involving individuals under 18, whether real or fictional. This includes any &apos;Lolita&apos; or similar material, even if age disclaimers are present.</li>
+                <li>No IRL pornography.  Drawn porn is fine tho.</li>
+                <li>Absolutely no content involving individuals under 18, whether real or fictional. This includes any &apos;Lolita&apos; or similar material, even if age disclaimers are present.  Just remember that Pokémon evolution != aging.</li>
               </ul>
               <p className="text-gray-300">
                 Violation of these rules will result in immediate account suspension or termination.
               </p>
-            </section>
+              </section>
+
+              <section className="mb-8">
+              <h2 className="text-2xl font-light text-white mb-4">4. AI-generated content</h2>
+              <ul className="list-disc pl-6 text-gray-300 mb-4 space-y-2">
+              <li>AI-generated content must be clearly marked using the ai_generated tag.</li>
+              <li>No edits of other people's content with AI.  Either generate from scratch or edit your own content</li>
+              </ul>
+              <p className="text-gray-300">
+              Violation of these rules will result in immediate account suspension or termination.
+              </p>
+              </section>
 
             <section className="mb-8">
-              <h2 className="text-2xl font-light text-white mb-4">4. Abuse & Exploits</h2>
+              <h2 className="text-2xl font-light text-white mb-4">5. Abuse & Exploits</h2>
               <p className="text-gray-300 mb-4">We do not tolerate:</p>
               <ul className="list-disc pl-6 text-gray-300 mb-4 space-y-2">
                 <li>Exploiting the platform</li>
@@ -110,7 +121,7 @@ const TermsOfServicePage = () => {
             </section>
 
             <section className="mb-8">
-              <h2 className="text-2xl font-light text-white mb-4">5. Account Termination</h2>
+              <h2 className="text-2xl font-light text-white mb-4">6. Account Termination</h2>
               <p className="text-gray-300">
                 Switch Theme reserves the right to suspend or permanently terminate any user&apos;s account 
                 at any time and without explanation, particularly in the event of rule violations.
@@ -118,7 +129,7 @@ const TermsOfServicePage = () => {
             </section>
 
             <section className="mb-8">
-              <h2 className="text-2xl font-light text-white mb-4">6. Amendments</h2>
+              <h2 className="text-2xl font-light text-white mb-4">7. Amendments</h2>
               <p className="text-gray-300">
                 Switch Theme may update or amend these Terms of Service at any time. We also reserve 
                 the right to take action against users or content at our discretion, even if such actions 
@@ -127,7 +138,7 @@ const TermsOfServicePage = () => {
             </section>
 
             <section className="mb-8">
-              <h2 className="text-2xl font-light text-white mb-4">7. Contact</h2>
+              <h2 className="text-2xl font-light text-white mb-4">8. Contact</h2>
               <p className="text-gray-300 mb-4">
                 If you have any questions, need help, or wish to report an issue, please reach out through:
               </p>
