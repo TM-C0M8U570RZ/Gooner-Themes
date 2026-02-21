@@ -398,9 +398,6 @@ function ProfileContent() {
               )}
               
               <div className="flex flex-wrap items-center gap-4 sm:gap-6 text-sm text-gray-400">
-                <div className="flex items-center">
-                  <span>📧 {user.email}</span>
-                </div>
                 {user.location ? (
                   <div className="flex items-center">
                     <span>📍 {user.location}</span>
