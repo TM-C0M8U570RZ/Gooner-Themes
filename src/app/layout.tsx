@@ -7,19 +7,19 @@ import { AuthProvider } from "@/contexts/AuthContext";
 import { Analytics } from "@vercel/analytics/next"
 
 export const metadata: Metadata = {
-  title: "Switch Theme",
+  title: "GoonerThemes",
   description: "A platform for uploading, sharing, and downloading custom themes for Nintendo 3DS, 2DS, N3DS, and N2DS systems with CFW or Homebrew access.",
   openGraph: {
-    title: "Switch Theme",
+    title: "GoonerThemes",
     description: "A platform for uploading, sharing, and downloading custom themes for Nintendo 3DS, 2DS, N3DS, and N2DS systems with CFW or Homebrew access.",
     url: "https://switchthemes.vercel.app/",
-    siteName: "Switch Theme",
+    siteName: "GoonerThemes",
     images: [
       {
         url: "/banner.png",
         width: 1200,
         height: 630,
-        alt: "Switch Theme Banner",
+        alt: "GoonerThemes Banner",
       },
     ],
     locale: "en_US",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Switch Theme",
+    title: "GoonerThemes",
     description: "A platform for uploading, sharing, and downloading custom themes for Nintendo 3DS, 2DS, N3DS, and N2DS systems with CFW or Homebrew access.",
     images: ["/banner.png"],
   },
